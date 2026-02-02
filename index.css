@@ -58,6 +58,11 @@ button:hover{
         gap:6px;
         padding:6px;
     }
+    .tile{
+        width:60px;
+        height:60px;
+        font-size:18px;
+    }
 }
 
 body, html {
