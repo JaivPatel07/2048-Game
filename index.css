@@ -52,3 +52,10 @@ button:hover{
     transform: translateY(-3px);
     transition: all 0.2s;
 }
+
+@media (max-width:400px){
+    #game{
+        gap:6px;
+        padding:6px;
+    }
+}
