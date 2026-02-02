@@ -61,5 +61,6 @@ button:hover{
 }
 
 body, html {
-    overscroll-behavior: none;
+    overscroll-behavior-y: none;
+    overflow-y: hidden;
 }
